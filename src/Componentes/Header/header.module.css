@@ -1,0 +1,17 @@
+header{
+    background-color: rgb(86, 181, 244);
+    display: flex;
+    justify-content: space-around;
+}
+.lista{
+    display: flex;
+    gap: 2rem;
+    list-style: none;
+    font-size: 1.5rem;
+    border-radius: 0.5rem;
+    margin-top: 1.5rem;
+}
+
+a{
+    text-decoration: none;
+}

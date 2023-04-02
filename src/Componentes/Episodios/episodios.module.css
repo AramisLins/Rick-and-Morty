@@ -1,0 +1,26 @@
+.card{
+    border-radius: 7px;
+    border-style: outset;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 1.8rem;
+}
+.inicio{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.foto{
+    width: 15rem;
+    justify-content: space-between;
+    align-items: center;
+}
+.text{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+}
